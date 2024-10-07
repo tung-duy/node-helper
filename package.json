@@ -1,6 +1,6 @@
 {
   "name": "@brian.dev/node-helper",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Nodejs helper by Tùng Duy",
   "main": "index.js",
   "scripts": {
